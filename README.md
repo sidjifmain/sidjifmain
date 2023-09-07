@@ -1,4 +1,4 @@
-[![MasterHead](https://i.redd.it/wmf4pf98d4l61.png)
+![MasterHead](https://i.redd.it/wmf4pf98d4l61.png)
 
 
 <h1 align="center">Hi 👋, I'm Mehdi</h1>
