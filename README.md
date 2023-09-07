@@ -1,4 +1,4 @@
-![MasterHead](https://wallpaperboat.com/wp-content/uploads/2019/10/programming-04-920x518.jpg)
+
 
 
 <h1 align="center">Hi 👋, I'm Mehdi</h1>
