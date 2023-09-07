@@ -1,4 +1,5 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Faocattleya%2FNightSky-Background&psig=AOvVaw0d9vGD6klSZv3eRgcqxs_U&ust=1694212356930000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjUqIHHmYEDFQAAAAAdAAAAABAE)
+[![MasterHead](https://png.pngtree.com/thumb_back/fh260/background/20190221/ourmid/pngtree-japanese-japan-fresh-blue-image_17018.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Mehdi</h1>
 <h3 align="center">A passionate android developer from Azerbaijan</h3>
