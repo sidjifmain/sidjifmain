@@ -18,5 +18,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidjifmain&" alt="sidjifmain" /></p>
 
-![snake gif](https://github.com/sidjifmain/sidjifmain/blob/output/github-contribution-grid-snake.gif)
+
 
